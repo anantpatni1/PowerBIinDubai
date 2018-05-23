@@ -22,10 +22,6 @@
   </p>
 </p>
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
 ![Alt text](/images/screenshot.png?raw=true "Power Bi in Dubai")
 
 
